@@ -8,7 +8,7 @@ A parameter-efficient and practical adapter for few-shot fine-grained action rec
 <sup>\*</sup><i>Joint first authors with equal contributions</i>
 
 <!-- TODO: replace xxxx.xxxxx with the arXiv id, and add a project-page badge if you have one -->
-[![WACV 2027](https://img.shields.io/badge/badge/WACV_2027-blue?style=for-the-badge)](https://wacv.thecvf.com/Conferences/2027/index.html)
+[![WACV 2027](https://img.shields.io/badge/WACV_2027-blue?style=for-the-badge)](https://wacv.thecvf.com/Conferences/2027/index.html)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Backbone](https://img.shields.io/badge/Backbone-CLIP_ViT--B%2F16-38c6f4?style=for-the-badge)](https://github.com/openai/CLIP)
