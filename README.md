@@ -1,6 +1,5 @@
-# MATA: Few-Shot Fine-Grained Action Classification
-
-This repository implements **MATA (Motion Aligned Temporal Adapter)**, an adapter for few-shot fine-grained action classification, accepted in WACV 2027.
+# MATA: Motion Aligned Temporal Adapter
+This repository implements **MATA (Motion Aligned Temporal Adapter)**, an adapter for few-shot fine-grained action recognition, accepted in WACV 2027.
 
 
 ## Installation
