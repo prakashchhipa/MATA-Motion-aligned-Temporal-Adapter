@@ -1,0 +1,17 @@
+[
+  "Back, 1.5 somersaults, 1.5 twists, free",
+  "Back, 1.5 somersaults, 2.5 twists, free",
+  "Back, 2.5 somersaults, 1.5 twists, pike",
+  "Back, 3.5 somersaults, NoTwis, tuck",
+  "Back, 0.3 somersaults, NoTwis, pike",
+  "Forward, 1.5 somersaults, 0.1 twists, free",
+  "Forward, 0.1 somersaults, NoTwis, pike",
+  "Forward, 2.5 somersaults, 0.3 twists, pike",
+  "Forward, 2.5 somersaults, NoTwis, pike",
+  "Forward, 2.5 somersaults, NoTwis, tuck",
+  "Forward, 4.5 somersaults, NoTwis, tuck",
+  "Forward, Dive, NoTwis, pike",
+  "Reverse, 1.5 somersaults, 0.5 twists, free",
+  "Reverse, 2.5 somersaults, NoTwis, pike",
+  "Reverse, Dive, NoTwis, tuck"
+]

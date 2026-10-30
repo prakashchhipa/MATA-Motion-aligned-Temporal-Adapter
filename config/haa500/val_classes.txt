@@ -1,0 +1,22 @@
+[
+  "base_jumping",
+  "cartwheeling",
+  "curling_sweep",
+  "eating_hotdogs",
+  "fish-hunting_hold",
+  "floor_rotate",
+  "jumprope",
+  "play_grandpiano",
+  "play_melodic",
+  "playing_bass_drum",
+  "rowing_boat",
+  "running_on_four",
+  "squash_forehand",
+  "stomping_grapes",
+  "throwing_bouquet",
+  "volleyball_overhand",
+  "walking_on_stilts",
+  "whistle_one_hand",
+  "yoga_locust",
+  "yoga_updog"
+]
