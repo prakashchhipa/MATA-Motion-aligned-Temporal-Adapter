@@ -1,5 +1,18 @@
 # MATA: Motion Aligned Temporal Adapter
-This repository implements **MATA (Motion Aligned Temporal Adapter)**, an adapter for few-shot fine-grained action recognition, accepted in WACV 2027.
+A parameter-efficient and practical adapter for few-shot fine-grained action recognition, accepted in WACV 2027.
+
+**Ashish Kumar Singh**<sup>1\*</sup> &nbsp;·&nbsp; **Prakash Chandra Chhipa**<sup>2\*</sup>
+
+<sup>1</sup>Machine Learning Group, Luleå University of Technology &nbsp;&nbsp; <sup>2</sup>Scalable Systems, RISE Research Institutes of Sweden
+
+<sup>\*</sup><i>Joint first authors with equal contributions</i>
+
+<!-- TODO: replace xxxx.xxxxx with the arXiv id, and add a project-page badge if you have one -->
+[![WACV 2027](https://img.shields.io/badge/NeurIPS-2026-4b44ce?style=for-the-badge)](https://neurips.cc/)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Backbone](https://img.shields.io/badge/Backbone-CLIP_ViT--B%2F16-38c6f4?style=for-the-badge)](https://github.com/openai/CLIP)
+[![License](https://img.shields.io/badge/License-Apache_2.0-9be15d?style=for-the-badge)](LICENSE)
 
 
 ## Installation
